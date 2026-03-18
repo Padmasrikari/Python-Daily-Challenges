@@ -39,8 +39,9 @@ This project is a personal learning journey focused on:
 | 3 | [Student Performance Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_3) | ✅ Completed |
 | 4 | [Cyber Activity Risk Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_4) | ✅ Completed |
 | 5 | [Emergency Resource Dispatch Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_5) | ✅ Completed |
-| 6 | Coming soon | 🚧 In Progress |
-| 7–60 | To be added | ⏳ Planned |
+| 6 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_6) | ✅ Completed |
+| 7 | Coming soon | 🚧 In Progress |
+| 8–60 | To be added | ⏳ Planned |
 
 I update this table as new challenges are completed.
 
@@ -143,6 +144,19 @@ Counting valid vs removed requests
 Applying dispatch rules with conditionals
 
 Personalized filtering using basic math on user data
+
+## Day 6- Smart Transaction Detector
+Categorizing transactions using dictionary
+
+Using loops and conditions for classification
+
+List comprehension for filtering valid data
+
+Detecting patterns (frequency & suspicious activity)
+
+Applying custom risk logic
+
+
 
 ### I will expand this section as new days are added.
 
