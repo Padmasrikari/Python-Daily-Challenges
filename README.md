@@ -40,8 +40,8 @@ This project is a personal learning journey focused on:
 | 4 | [Cyber Activity Risk Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_4) | ✅ Completed |
 | 5 | [Emergency Resource Dispatch Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_5) | ✅ Completed |
 | 6 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_6) | ✅ Completed |
-| 7 | Coming soon | 🚧 In Progress |
-| 8–60 | To be added | ⏳ Planned |
+| 8 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_8) | ✅ Completed |
+| 9–60 | To be added | ⏳ Planned |
 
 I update this table as new challenges are completed.
 
