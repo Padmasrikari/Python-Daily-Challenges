@@ -156,7 +156,23 @@ Detecting patterns (frequency & suspicious activity)
 
 Applying custom risk logic
 
-
+ ## Day 8- Multi-Dimensional Academic Intelligence System
+ Random student data generation using `random`
+- Data stored using **lists, tuples, and dictionary**
+- Converted into **Pandas DataFrame**
+- Statistical analysis using **NumPy**
+- Custom **performance index** using `math.log()`
+- Student classification:
+  - At Risk
+  - Average
+  - Good
+  - Top Performer
+- Data normalization
+- Pattern detection:
+  - Consistency
+  - Attendance Risk
+  - High Achievement
+- Final system insight generation
 
 ### I will expand this section as new days are added.
 
