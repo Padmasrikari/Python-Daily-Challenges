@@ -42,7 +42,8 @@ This project is a personal learning journey focused on:
 | 6 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_6) | ✅ Completed |
 | 8 | [Multi-Dimensional Academic Intelligence System](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_8) | ✅ Completed |
 | 9 | [Smart Inventory Mutation Tracker](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_9) | ✅ Completed |
-| 10–60 | To be added | ⏳ Planned |
+| 10 | [Academic Data Drift & Copy Behavior Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_10) | ✅ Completed 
+| 11–60 | To be added | ⏳ Planned |
 
 I update this table as new challenges are completed.
 
@@ -186,5 +187,22 @@ Verified that deep copy kept the data independent
 Compared original and modified data using loops and conditions
 Calculated tuple summary of changed and unchanged items
 Understood how shared references can cause data corruption
+
+## Day 10 – Academic Data Drift & Copy Behavior Analyzer
+Generated student data using random module
+Stored data using nested dictionaries inside a list
+Converted data into Pandas DataFrame for analysis
+Used NumPy to calculate mean, median, and standard deviation
+Applied math functions to transform marks using square root logic
+Created shallow copy and deep copy of dataset
+Used roll number rule to modify only selected indexes
+Updated marks, attendance, and inner scores list in copied data
+Detected data drift by comparing original and modified mean
+Performed manual calculation for one metric without NumPy
+Normalized marks for better comparison
+Observed that shallow copy affected original data (copy failure)
+Verified that deep copy maintained independent data
+Classified results into Stable Data, Minor Drift, or Critical Drift
+Identified real-world issue of data inconsistency due to improper copying
 ### I will expand this section as new days are added.
 
