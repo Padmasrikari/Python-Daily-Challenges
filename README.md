@@ -40,8 +40,9 @@ This project is a personal learning journey focused on:
 | 4 | [Cyber Activity Risk Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_4) | ✅ Completed |
 | 5 | [Emergency Resource Dispatch Analyzer](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_5) | ✅ Completed |
 | 6 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_6) | ✅ Completed |
-| 8 | [Smart Transaction Detector](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_8) | ✅ Completed |
-| 9–60 | To be added | ⏳ Planned |
+| 8 | [Multi-Dimensional Academic Intelligence System](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_8) | ✅ Completed |
+| 9 | [Smart Inventory Mutation Tracker](https://github.com/Padmasrikari/Python-Daily-Challenges/tree/main/Day_9) | ✅ Completed |
+| 10–60 | To be added | ⏳ Planned |
 
 I update this table as new challenges are completed.
 
@@ -174,5 +175,16 @@ Applying custom risk logic
   - High Achievement
 - Final system insight generation
 
+## Day-9-Smart Inventory Mutation Tracker
+Created an inventory system using nested dictionaries and lists
+Used functions to create, modify, and compare data
+Applied shallow copy and deep copy concepts
+Used roll number logic to modify a specific item
+Reduced price and updated stock for selected item
+Observed that shallow copy changed the original data
+Verified that deep copy kept the data independent
+Compared original and modified data using loops and conditions
+Calculated tuple summary of changed and unchanged items
+Understood how shared references can cause data corruption
 ### I will expand this section as new days are added.
 
